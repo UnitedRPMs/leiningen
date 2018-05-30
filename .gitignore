@@ -5,3 +5,6 @@ SPECS/*
 SRPMS/*
 leiningen*.zip
 .directory
+lein-pkg
+bash_completion.bash
+zsh_completion.zsh
