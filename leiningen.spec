@@ -4,7 +4,7 @@
 
 Name:    leiningen
 Version: 2.8.1
-Release: 1%{?dist}
+Release: 2%{?dist}
 Summary: Clojure projects manager with bundled clojure
 Group:   Development/Tools
 License: EPL-1.0
