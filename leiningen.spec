@@ -72,6 +72,9 @@ install -p -m 644 %{S:3} %{buildroot}%{_datadir}/zsh/site-functions/_%{name}
 
 %changelog
 
+* Wed May 30 2018 Unitedrpms Project <unitedrpms AT protonmail DOT com> 2.8.1-2
+- Rebuilt for old source
+
 * Sun Oct 29 2017 Unitedrpms Project <unitedrpms AT protonmail DOT com> 2.8.1-1
 - Updated to 2.8.1
 
