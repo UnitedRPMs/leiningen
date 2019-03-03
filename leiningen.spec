@@ -3,7 +3,7 @@
 %global __jar_repack %{nil}
 
 Name:    leiningen
-Version: 2.9.0
+Version: 2.9.1
 Release: 1%{?dist}
 Summary: Clojure projects manager with bundled clojure
 Group:   Development/Tools
@@ -71,6 +71,9 @@ install -p -m 644 %{S:3} %{buildroot}%{_datadir}/zsh/site-functions/_%{name}
 %{_datadir}/zsh/site-functions/_%{name}
 
 %changelog
+
+* Sun Mar 03 2019 Unitedrpms Project <unitedrpms AT protonmail DOT com> 2.9.1-1
+- Updated to 2.9.1
 
 * Sat Feb 16 2019 Unitedrpms Project <unitedrpms AT protonmail DOT com> 2.9.0-1
 - Updated to 2.9.0
